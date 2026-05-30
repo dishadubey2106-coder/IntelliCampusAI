@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right,#141e30,#243b55);
+    color:white;
+    font-family: Arial;
+}
+
+.form-box{
+    max-width:500px;
+    margin:auto;
+    margin-top:100px;
+    padding:40px;
+    border-radius:20px;
+    background:white;
+    color:black;
+}
+
+.dashboard-card{
+    padding:20px;
+    border-radius:20px;
+    text-align:center;
+    color:black;
+}
+
+table{
+    background:white;
+    color:black;
+}
